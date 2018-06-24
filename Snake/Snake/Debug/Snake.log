@@ -1,4 +1,0 @@
-﻿  game.cpp
-c:\users\panic\source\repos\snake\snake\game.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\panic\source\repos\snake\snake\game.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Snake.vcxproj -> C:\Users\panic\source\repos\Snake\Debug\Snake.exe
